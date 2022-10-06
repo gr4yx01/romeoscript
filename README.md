@@ -116,13 +116,6 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=romeoscript&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ----
-
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/romeoscript"><img alt="Romeoscript's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=romeoscript&custom_title=Romeoscript's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-
 <br/>
 
 ## :trophy: Git profile Trophies
