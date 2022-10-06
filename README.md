@@ -8,9 +8,6 @@
 ##### . 📫 How to reach me hoyx0101@gmail.com
 ##### . ⚠️ Make sure you have your CONTRIBUTING.md ready.
 
-<!-- ##### . 👨🏻‍💻 Portfolio : [https://johnoseni.co/](https://johnoseni.co/) -->
-
-
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=romeoscript&theme=dark)](https://git.io/streak-stats)
 
@@ -18,7 +15,7 @@
 
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=romeoscript&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Codersrank" height="40" style="vertical-align:top; margin:4px">
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=romeoscript&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=romeoscript&theme=dracula)](https://github.com/romeoscript/github-readme-activity-graph)
 
 
 
