@@ -105,20 +105,15 @@
 
 <br/>
 
-## 📊 Github Stats
+## Github 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=romeoscript&theme=dark)](https://git.io/streak-stats)
 
+![](https://komarev.com/ghpvc/?username=romeoscript&color=green)
 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/7oSkaaa/github-readme-stats"><img alt="Romeoscripot's Github Stats" src="https://github-readme-stats.vercel.app/api?username=romeoscript&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=romeoscript&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="romeoscript" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=romeoscript&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Codersrank" height="40" style="vertical-align:top; margin:4px">
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=romeoscript&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ----
 
