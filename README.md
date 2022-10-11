@@ -32,14 +32,6 @@
 
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=romeoscript&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Codersrank" height="40" style="vertical-align:top; margin:4px">
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=romeoscript&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-----
-<br/>
-
-## :trophy: Git profile Trophies
-
-<p align="center"> <a href="https://github.com/romeoscript-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romeoscript&layout=compact&theme=algolia" alt="romeoscript" /></a> </p>
 
 
 Credits: [Romeoscript](https://github.com/romeoscript)
