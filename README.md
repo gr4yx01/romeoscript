@@ -3,11 +3,11 @@
 
 <h3 align="center">A passionate software engineer from Nigeria</h3>
 
-## <img align="center" alt="odizee coding" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"></img>
-<br>
+ <img align="center" alt="odizee coding" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"></img>
 <br>
 
-<p>
+
+
 	## :sassy_man:  About me
 - :school: I am a `Frontend developer` 
 - :technologist: I love using Software as a solution for every `Problem`
@@ -15,7 +15,7 @@
 - :student: I love competition a lot`.
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`,
 - :nerd_face: Always `learning new things`
-</p>
+
 
 
 <br>
