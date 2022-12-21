@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate software engineer from Nigeria</h3>
 
-## <img align="right" alt="odizee coding" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"></img>
+## <img align="center" alt="odizee coding" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"></img>
 <br>
 <br>
 
