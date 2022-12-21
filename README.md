@@ -1,8 +1,6 @@
 <h1 align="center">Hi , I'm RomeoScript<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-<br>
-https://camo.githubusercontent.com/5556fbd15523b8074b14f0d299bd25cf8fd9b02123bf6c0081c59daf627a687d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f35342f65332f37642f35346533376438303734656263646531643936633737643762326137663331302e676966
 
 <br>
 
