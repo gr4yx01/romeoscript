@@ -8,7 +8,7 @@
 
 
 
-	## :sassy_man:  About me
+## :sassy_man:  About me
 - :school: I am a `Frontend developer` 
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer
