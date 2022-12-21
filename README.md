@@ -7,13 +7,15 @@
 <br>
 
 
-## :sassy_man:  About me
+<p>
+	## :sassy_man:  About me
 - :school: I am a `Frontend developer` 
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer
 - :student: I love competition a lot`.
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`,
 - :nerd_face: Always `learning new things`
+</p>
 
 
 <br>
